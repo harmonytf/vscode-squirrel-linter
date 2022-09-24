@@ -1,0 +1,8 @@
+*.bat
+*.md
+.vscode
+.gitignore
+package-lock.json
+images
+node_modules
+r1o/tfo_*log_*.log

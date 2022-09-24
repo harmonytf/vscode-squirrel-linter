@@ -1,0 +1,1 @@
+code --install-extension .\vscode-squirrel-linter-0.0.1.vsix
